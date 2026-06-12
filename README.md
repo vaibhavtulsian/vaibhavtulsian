@@ -51,7 +51,7 @@ const vaibhav: Engineer = {
   education:  "B.Tech CSE (AI/ML) — PES University, Bengaluru",
   location:   "Bengaluru, India",
   focus:      ["Intelligent Product Engineering", "LLM Integration", "Scalable Web Systems"],
-  languages:  ["TypeScript", "Python", "SQL"],
+  languages:  ["TypeScript", "Python", "SQL", "C"],
   philosophy: "Ship products that think. Engineer systems that scale.",
 };
 ```
