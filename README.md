@@ -51,7 +51,7 @@ const vaibhav: Engineer = {
   education:  "B.Tech CSE (AI/ML) — PES University, Bengaluru",
   location:   "Bengaluru, India",
   focus:      ["Intelligent Product Engineering", "LLM Integration", "Scalable Web Systems"],
-  languages:  ["TypeScript", "Python", "SQL", "C"],
+  languages:  ["TypeScript", "Python", "SQL"],
   philosophy: "Ship products that think. Engineer systems that scale.",
 };
 ```
@@ -77,7 +77,7 @@ I write primarily in TypeScript and Python, design systems with performance and 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,sql&theme=dark" />
 </p>
 
 **Frontend**
@@ -89,13 +89,13 @@ I write primarily in TypeScript and Python, design systems with performance and 
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,postgres,mongodb,redis,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,supabase&theme=dark" />
 </p>
 
 **Cloud, DevOps & Tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,git,github,linux,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -176,7 +176,7 @@ Sanjeevani addresses a critical and often overlooked problem — medication non-
 <table>
   <tr>
     <td><b>🎓 &nbsp;B.Tech — Computer Science Engineering (AI/ML)</b></td>
-    <td align="right"><code>2023 — 2027</code></td>
+    <td align="right"><code>2024 — 2028</code></td>
   </tr>
 </table>
 
@@ -267,11 +267,16 @@ Pursuing a specialised undergraduate degree at one of India's premier engineerin
 
 ## ◈ Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavtulsian/vaibhavtulsian/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
 
 ## ◈ Current Focus
 
