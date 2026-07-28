@@ -213,50 +213,6 @@ Pursuing a specialised undergraduate degree at one of India's premier engineerin
 
 ---
 
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/vaibhavtulsian">
-    <img src="https://img.shields.io/badge/LeetCode-vaibhavtulsian-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/vaibhavtulsian">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-vaibhavtulsian-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1b4b" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/vaibhavtulsian">
-    <img src="https://img.shields.io/badge/HackerRank-vaibhavtulsian-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1b4b" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/vaibhavtulsian">
-    <img src="https://img.shields.io/badge/CodeChef-vaibhavtulsian-4C1D95?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" />
-  </a>
-</p>
-
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavtulsian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=7C3AED&text_color=c4b5fd&ring_color=6D28D9&count_private=true" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtulsian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=c4b5fd&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhavtulsian&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7C3AED&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=A78BFA&sideNums=A78BFA&dates=6b7280" />
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavtulsian&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=A78BFA" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
